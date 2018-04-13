@@ -1,0 +1,18 @@
+{
+    "none": {
+        "Source": [
+            "Source/GameKit_precompiled.cpp",
+            "Source/GameKit_precompiled.h"
+        ]
+    },
+    "auto": {
+        "Include": [
+            "Include/GameKit/GameKitBus.h"
+        ],
+        "Source": [
+            "Source/GameKitModule.cpp",
+            "Source/GameKitSystemComponent.cpp",
+            "Source/GameKitSystemComponent.h"
+        ]
+    }
+}
