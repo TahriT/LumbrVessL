@@ -13,7 +13,7 @@ Windows:
 ### Prerequisites:
 ---
 
-  * Have [vs2015](../../wiki/VS2015-Setup) installed (click for tutorial on how to install for Lumberyard)
+  * Have [vs2015](../../wiki/A-VS2015-Setup) installed (click for tutorial on how to install for Lumberyard)
 
   * In the setup assistant, on the Get Started tab have it look something like this:
 
