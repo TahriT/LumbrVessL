@@ -36,3 +36,4 @@ Windows:
 4. Enter this command: `lmbr_waf configure`
 5. Once that command finishes enter this command: `lmbr_waf build_win_x64_vs2015_profile -p game --progress`
 6. Once that's done (will take a while). You're ready to begin! Launch the editor and dive into our documentation or just play around with the samples!
+7. We'd recommend you start with the VSCode setup Tutorial in the wiki before doing anything else.
