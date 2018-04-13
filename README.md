@@ -13,13 +13,13 @@ Windows:
 ### Prerequisites:
 ---
 
-  * Have [vs2015](../../wiki/A-VS2015-Setup) installed (click for tutorial on how to install for Lumberyard)
+  * Have [vs2015](../../wiki/VS2015-Setup) installed (click for tutorial on how to install for Lumberyard)
 
   * In the setup assistant, on the Get Started tab have it look something like this:
 
     ![alt tag](https://brogrammersexplainlumberyard.files.wordpress.com/2017/10/tut_setup_1_11_compile_options.png)
 
-  * Then, in the install Software tab have everything installed, including Audiokinetic Wwise LTX Authoring Tool, FFmpeg, and SpeedTree for Lumberyard. (click on each name to be redirected to an install tutorial)
+  * Then, in the install Software tab have everything installed, including [Audiokinetic Wwise LTX Authoring Tool](../../wiki/Audiokinetic-Wwise-LTX-Authoring-Tool-Setup), FFmpeg, and [SpeedTree for Lumberyard](../../wiki/SpeedTree-8-for-Lumberyard-Setup). (click on each name to be redirected to an install tutorial)
 
   * On the Install required SDKs tab, have everything installed.
 
