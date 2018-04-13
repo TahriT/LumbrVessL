@@ -2,7 +2,7 @@ GameKit
 ======
 Welcome to GameKit, an Amazon Lumberyard kit packed full of samples to show you how to make a full game!
 
-Checkout the wiki on Github for tutorial documents and useful links
+Checkout the [wiki](../wiki/) on Github for tutorial documents and useful links
 
 Setup
 ======
@@ -11,6 +11,7 @@ Windows:
 ------
 
 ### Prerequisites:
+---
 
   * Have vs2015 installed (click for tutorial on how to install for Lumberyard)
 
@@ -27,6 +28,8 @@ Windows:
   * Finally, on the Install Plugins tab, ensure RC Shell commands is installed and if you have any of the other software listed, install that too.
 
 ### Installation:
+---
+
 1. Make a new folder in your dev folder called `GameKit` and then download these files in this repo into your `GameKit` folder.
 2. Then, Open the Project Configurator and set the `GameKit` project as default.
 3. Now, open a command prompt window and navigate to your `dev` folder.
