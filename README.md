@@ -1,4 +1,4 @@
-GameKit
+GameKit for Amazon Lumberyard
 ======
 Welcome to GameKit, an Amazon Lumberyard kit packed full of samples to show you how to make a full game!
 
