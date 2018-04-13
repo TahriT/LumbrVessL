@@ -2,7 +2,7 @@ GameKit
 ======
 Welcome to GameKit, an Amazon Lumberyard kit packed full of samples to show you how to make a full game!
 
-Checkout the [wiki](../wiki/) on Github for tutorial documents and useful links
+Checkout the [wiki](../../wiki/) on Github for tutorial documents and useful links
 
 Setup
 ======
