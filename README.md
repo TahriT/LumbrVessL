@@ -19,11 +19,11 @@ Windows:
 
     ![alt tag](https://brogrammersexplainlumberyard.files.wordpress.com/2017/10/tut_setup_1_11_compile_options.png)
 
-  * Then, in the install Software tab have everything installed, including [Audiokinetic Wwise LTX Authoring Tool](../../wiki/Audiokinetic-Wwise-LTX-Authoring-Tool-Setup), FFmpeg, and [SpeedTree for Lumberyard](../../wiki/SpeedTree-8-for-Lumberyard-Setup). (click on each name to be redirected to an install tutorial)
+  * Then, in the install Software tab have everything installed, including [Audiokinetic Wwise LTX Authoring Tool](../../wiki/Audiokinetic-Wwise-LTX-Authoring-Tool-Setup), [FFmpeg](../../wiki/FFmpeg-Setup), and [SpeedTree for Lumberyard](../../wiki/SpeedTree-8-for-Lumberyard-Setup). (click on each name to be redirected to an install tutorial)
 
   * On the Install required SDKs tab, have everything installed.
 
-  * On the Install optional SDKs tab, have FFmpeg (click for tutorial) installed and Clang installed. If you have any of the other software listed, install that too.
+  * On the Install optional SDKs tab, have [FFmpeg](../../wiki/FFmpeg-Setup) (click for tutorial) installed and Clang installed. If you have any of the other software listed, install that too.
 
   * Finally, on the Install Plugins tab, ensure RC Shell commands is installed and if you have any of the other software listed, install that too.
 
