@@ -13,7 +13,7 @@ Windows:
 ### Prerequisites:
 ---
 
-  * Have [vs2015](../../wiki/VS2015-Setup) installed (click for tutorial on how to install for Lumberyard)
+  * Have [vs2017](../../wiki/VS2017-Setup) installed (click for tutorial on how to install for Lumberyard)
 
   * In the setup assistant, on the Get Started tab have it look something like this:
 
@@ -34,6 +34,7 @@ Windows:
 2. Then, Open the Project Configurator and set the `GameKit` project as default.
 3. Now, open a command prompt window and navigate to your `dev` folder.
 4. Enter this command: `lmbr_waf configure`
-5. Once that command finishes enter this command: `lmbr_waf build_win_x64_vs2015_profile -p game --progress`
+5. Once that command finishes enter this command: `lmbr_waf build_win_x64_vs2017_profile -p game --progress`
 6. Once that's done (will take a while). You're ready to begin! Launch the editor and dive into our documentation or just play around with the samples!
+* If the editor doesn't open and complains, try `lmbr_waf configure` followed by `lmbr_waf build_win_x64_vs2017_profile -p game --progress`.
 7. We'd recommend you start with the [VSCode Setup](../../wiki/VSCode-Setup) tutorial in the wiki before doing anything else after installing.
