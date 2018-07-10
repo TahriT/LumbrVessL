@@ -1,9 +1,0 @@
-{
-    "description": "Configuration for GameKit",
-    "visual_studio_name": "GameKit",
-    "comment" : "",
-    "game_projects" : "GameKit",
-
-    "modules" : [
-    ]
-}
