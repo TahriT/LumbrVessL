@@ -1,4 +1,4 @@
-GameDevVessL for Amazon Lumberyard
+LumbrVessL
 ======
 Welcome to GameDevVessL, an Amazon Lumberyard kit!
 
