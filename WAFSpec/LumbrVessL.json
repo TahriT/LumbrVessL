@@ -1,0 +1,9 @@
+{
+    "description": "Configuration for LumbrVessL",
+    "visual_studio_name": "LumbrVessL",
+    "comment" : "",
+    "game_projects" : "LumbrVessL",
+
+    "modules" : [
+    ]
+}

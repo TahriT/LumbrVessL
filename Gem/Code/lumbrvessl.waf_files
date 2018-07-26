@@ -1,0 +1,18 @@
+{
+    "none": {
+        "Source": [
+            "Source/LumbrVessL_precompiled.cpp",
+            "Source/LumbrVessL_precompiled.h"
+        ]
+    },
+    "auto": {
+        "Include": [
+            "Include/LumbrVessL/LumbrVessLBus.h"
+        ],
+        "Source": [
+            "Source/LumbrVessLModule.cpp",
+            "Source/LumbrVessLSystemComponent.cpp",
+            "Source/LumbrVessLSystemComponent.h"
+        ]
+    }
+}
