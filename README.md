@@ -29,7 +29,7 @@ Windows:
 
   * On the Install Plugins tab, ensure RC Shell commands is installed and if you have any of the other software listed, install that too.
 
-  * Go Here and download the contents into a new folder called "Playground" in your `dev\Gems\` folder.
+  * Go [Here](https://github.com/SRugina/Playground-Gem) and download the contents into a new folder called "Playground" in your `dev\Gems\` folder.
 
 ### Installation:
 ---
