@@ -40,4 +40,4 @@ Windows:
 4. Enter this command: `lmbr_waf configure`
 5. Once that command finishes enter this command: `lmbr_waf build_win_x64_vs2017_profile -p all --progress`
 6. Once that's done (will take a while, 2hours usually). You're ready to begin! Launch the editor and have a look around!
-7. We'd recommend you start with the [VSCode Setup](../wiki/VSCode-Setup) tutorial in the wiki before doing anything else after installing.
+7. We'd recommend you start with the [VS2017 Setup](../wiki/VS2017-Setup-&-Use) tutorial in the wiki before doing anything else after installing.
